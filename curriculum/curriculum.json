@@ -1,0 +1,309 @@
+{
+ "levels": [
+  {
+   "n": 0,
+   "name": "Starters",
+   "tag": "Foundation",
+   "sum": "Learn the board, the pieces and the rules",
+   "out": "Sets up the board, moves every piece correctly and plays a full game through to checkmate.",
+   "sec": [
+    {
+     "title": "The Board",
+     "topics": [
+      "Chessboard",
+      "Files, Ranks and Diagonals",
+      "Square Names"
+     ]
+    },
+    {
+     "title": "The Pieces",
+     "topics": [
+      "Piece Names",
+      "Piece Symbols and Points",
+      "Piece Movement with Notation",
+      "Piece Capture with Notation"
+     ]
+    },
+    {
+     "title": "Playing the Game",
+     "topics": [
+      "Capture, Attack and Check",
+      "Getting out of Check",
+      "Checkmate",
+      "Mate-in-1 Problems",
+      "Special Moves (Castling, En Passant and Promotion)",
+      "Stalemate: What It Is and How to Avoid It"
+     ]
+    },
+    {
+     "title": "First Skills",
+     "topics": [
+      "Safe Captures: Take Free Pieces and Count Recaptures",
+      "Run! Move an Attacked Piece to a Safe Square"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "name": "Level 1",
+   "tag": "Beginner",
+   "sum": "Opening principles, basic checkmates and the core tactics",
+   "out": "Plays sound openings, delivers the basic checkmates and spots forks, pins and skewers.",
+   "sec": [
+    {
+     "title": "Openings",
+     "topics": [
+      "Opening Principles"
+     ]
+    },
+    {
+     "title": "Checkmates",
+     "topics": [
+      "Queen + Rook Checkmate",
+      "Rook + Rook Checkmate",
+      "Queen Checkmate",
+      "Back Rank Mate",
+      "Mate in 1 with a Pin or Discovered Check",
+      "Checkmate Tricks: Promotion, Castling, En Passant"
+     ]
+    },
+    {
+     "title": "Tactics",
+     "topics": [
+      "Fork and Double Attack",
+      "Knight Forks",
+      "Making and Using a Pin",
+      "Skewers",
+      "Discovered Attack & Check",
+      "Double Check",
+      "Mate-in-1 Problems",
+      "Traps"
+     ]
+    },
+    {
+     "title": "Draws",
+     "topics": [
+      "Draws (Stalemate and Perpetual Check)"
+     ]
+    },
+    {
+     "title": "Model Games",
+     "topics": [
+      "Logical Chess Move by Move: Games 1 and 2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "name": "Level 2",
+   "tag": "Intermediate",
+   "sum": "Plans, endings, sacrifices and how to defend",
+   "out": "Plans attacks, converts simple endgames and defends difficult positions.",
+   "sec": [
+    {
+     "title": "Plans & Analysis",
+     "topics": [
+      "Simple Attacking Plans",
+      "Analysing Games",
+      "Learn from the Masters: Openings"
+     ]
+    },
+    {
+     "title": "Endgames & Checkmates",
+     "topics": [
+      "King and Pawn Endings",
+      "Simple Pawn Endings",
+      "Rook Checkmate",
+      "Double Bishop Checkmate",
+      "The Opposition (\"King's Face-off\")",
+      "Knight / Bishop vs Pawn",
+      "Fox in the Chicken Coop",
+      "Rook's Rocket Defence",
+      "Endgame Test"
+     ]
+    },
+    {
+     "title": "Revision from Level 1",
+     "topics": [
+      "Opening Principles",
+      "Queen + Rook Checkmate",
+      "Rook + Rook Checkmate",
+      "Queen Checkmate",
+      "Fork and Double Attack",
+      "Making and Using a Pin",
+      "Skewers",
+      "Discovered Attack & Check",
+      "Draws (Stalemate and Perpetual Check)"
+     ]
+    },
+    {
+     "title": "New Tactics",
+     "topics": [
+      "Mate-in-2 Problems",
+      "Intermediate Move",
+      "Deflection",
+      "Decoy Sacrifice",
+      "Pawn Promotion",
+      "Mixed Motifs: White",
+      "Mixed Motifs: Black",
+      "Removing the Guard",
+      "Zugzwang",
+      "Double Threats",
+      "Mating Nets with Quiet & Discovered Moves (\"Mate with Freeze\")",
+      "Sacrifices with Each Piece: Queen, Rook, Bishop, Knight, Pawn (\"Sacrifice Spell\")",
+      "Identify the Tactic: Mixed Quizzes"
+     ]
+    },
+    {
+     "title": "Defence",
+     "topics": [
+      "Running and Exchange Running",
+      "Protect Each Other",
+      "Avoid Checkmate",
+      "Avoid Being Trapped",
+      "Stop Promotion",
+      "Counterattack (\"Strike Back to Defend\")",
+      "Save the Game by Stalemate (\"The Frozen King is Safe\")",
+      "Save the Game by Perpetual Check (\"The Never-ending Check\")",
+      "Survival & Escape Plans"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "name": "Level 3",
+   "tag": "Advanced",
+   "sum": "Advanced combinations, attacking play and essential endgames",
+   "out": "Finds multi-move combinations and handles the essential endgames with confidence.",
+   "sec": [
+    {
+     "title": "Tactics",
+     "topics": [
+      "Decoying Checkmate",
+      "Theoretical Draw",
+      "Interception",
+      "Double Attack",
+      "Deflection Checkmate",
+      "Invasion",
+      "Blockade",
+      "Annihilation",
+      "Clearance",
+      "Absolute Pin",
+      "Decoying Haunting",
+      "Stalemate",
+      "Fork",
+      "Removing the Guard",
+      "Decoys",
+      "Skewers",
+      "Intermediate Moves",
+      "Pawn Promotions",
+      "The Back Rank Problems",
+      "Destroying the Castled King",
+      "King Chase",
+      "Perpetual Check",
+      "Quiet-Move Checkmate",
+      "Quiet Move to Win Material",
+      "The Art of Distraction"
+     ]
+    },
+    {
+     "title": "Tricks & Practical Play",
+     "topics": [
+      "Trap Your Opponent",
+      "Being the Trickster: Swindles",
+      "Turning the Tables"
+     ]
+    },
+    {
+     "title": "Attacking Play & Game Analysis",
+     "topics": [
+      "Game Analysis",
+      "The Kingside Attack",
+      "The Queen's Pawn Opening",
+      "Games on Attacking the f7 Pawn",
+      "Games on Attacking the h7 Pawn",
+      "Greco's Sacrifice (Greek Gift) Games",
+      "Attacking a Fianchettoed Castled Position",
+      "Deflection, Undermining or Removing the Guard"
+     ]
+    },
+    {
+     "title": "Endgame",
+     "topics": [
+      "100 Endgames You Must Know",
+      "King & Pawn: The Pawn's Mission",
+      "Square of the Pawn (\"Rule the Magic Square\")",
+      "Cutting Off the King (\"Prisoned King\")",
+      "Queen vs Pawn (\"Brave Pawn vs Mighty Queen\")",
+      "The Lucena Position",
+      "The Philidor Position",
+      "Good vs Bad Bishop, Knight vs Bishop",
+      "Bishop Endings (\"Clash of Snipers\")",
+      "Endgame Test"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "name": "Level 4",
+   "tag": "Advanced Plus",
+   "sum": "Openings, master-level combinations and strategy",
+   "out": "Prepares openings, plays with a strategic plan and calculates deep combinations.",
+   "sec": [
+    {
+     "title": "Openings",
+     "topics": [
+      "Introduction to Openings (lines prepared by the coach)"
+     ]
+    },
+    {
+     "title": "Tactics & Combinations",
+     "topics": [
+      "Mating Motifs",
+      "Double Check",
+      "The Discovered Attack",
+      "The Pin",
+      "The Double Attack",
+      "Stalemate Motifs",
+      "Smothered Mate",
+      "The Windmill",
+      "The 7th Rank",
+      "Perpetual Check",
+      "Combinations Involving Files",
+      "Combinations with Knights",
+      "Combinations with Bishops",
+      "Zugzwang",
+      "Queen Sacrifices",
+      "Forced Variations",
+      "Mate in Three Moves"
+     ]
+    },
+    {
+     "title": "Endgame",
+     "topics": [
+      "The Opposition",
+      "Fortress",
+      "Bishop against Pawns"
+     ]
+    },
+    {
+     "title": "Strategy & Game Analysis",
+     "topics": [
+      "Game Analysis",
+      "Outpost Squares",
+      "Weak Squares",
+      "The Initiative",
+      "Coordination and Control",
+      "Pawn Structure & Pawn Power",
+      "Planning: Strategizing the Battle #1-4",
+      "The Kingdom Challenge"
+     ]
+    }
+   ]
+  }
+ ]
+}
